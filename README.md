@@ -10,6 +10,7 @@ BERT model:
 ### 1. Quick EDA
 
 Training dataset have: 21602 rows and 3 collumns.
+
 Test dataset have : 17197 rows and 2 collumns.
 **Meaning of collumns:**
 * `id`: the tweet ID
